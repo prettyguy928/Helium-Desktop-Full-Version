@@ -237,4 +237,4 @@ This repository serves as the official landing page for Helium Desktop. The soft
 **Get the most recent version of Helium Desktop today!**
 
 ---
-**Last updated:** 2026-10-14 16:28:56 UTC
+**Last updated:** 2026-10-14 20:25:58 UTC
